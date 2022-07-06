@@ -1,0 +1,12 @@
+{
+  "item.emergence.zircon": "Zircon",
+  "item.emergence.raw_zircon": "Raw Zircon",
+
+  "block.emergence.zircon_block": "Block of Zircon",
+  "block.emergence.zircon_ore": "Zircon Ore",
+  "block.emergence.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.emergence.endstone_zircon_ore": "End Zircon Ore",
+  "block.emergence.netherrack_zircon_ore": "Nether Zircon Ore",
+
+  "itemGroup.emergencetab": "Emergence Tab"
+}

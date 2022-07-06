@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "emergence:block/zircon_block" }
+  }
+}

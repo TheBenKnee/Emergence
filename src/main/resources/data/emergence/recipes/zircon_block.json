@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZZZ",
+    "ZZZ",
+    "ZZZ"
+  ],
+  "key": {
+    "Z": {
+      "item": "emergence:zircon"
+    }
+  },
+  "result": {
+    "item": "emergence:zircon_block"
+  }
+}

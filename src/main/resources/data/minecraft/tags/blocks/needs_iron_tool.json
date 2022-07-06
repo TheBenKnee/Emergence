@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "emergence:zircon_ore",
+    "emergence:zircon_block",
+    "emergence:deepslate_zircon_ore",
+    "emergence:netherrack_zircon_ore",
+    "emergence:endstone_zircon_ore"
+  ]
+}
